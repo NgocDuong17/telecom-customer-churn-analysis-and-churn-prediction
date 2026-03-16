@@ -15,3 +15,6 @@ End-to-end churn analysis using Python, Machine Learning, and Power BI
 
 <img width="1118" height="627" alt="image" src="https://github.com/user-attachments/assets/38767096-1bf0-44bd-ae48-653ca41a9254" />
 
+<img width="1122" height="632" alt="image" src="https://github.com/user-attachments/assets/638ad302-ca91-4890-bec3-0e5d762103fa" />
+
+<img width="1124" height="629" alt="image" src="https://github.com/user-attachments/assets/27eb996a-cc8f-4b0b-b5cd-3a238e591104" />
